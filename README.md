@@ -7,7 +7,7 @@ Consist of 5 Projects
 
 2) DemoApp.Domain :- Contains Entities/models 
 
-3) DemoApp.DAL :- Data Access Layer, Repository to get "Hello World" can be extended by adding Database support
+3) DemoApp.DAL :- Data Access Layer, Repository to get "Hello World",Database functionality can be added to this.
 
 4) DemoApp.Console :- Test Application to call Hello World Web API.
 
